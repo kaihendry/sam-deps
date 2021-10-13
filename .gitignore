@@ -1,0 +1,4 @@
+.aws-sam
+events
+tests
+node_modules
