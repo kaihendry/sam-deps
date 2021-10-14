@@ -1,6 +1,6 @@
 // const axios = require('axios')
 // const url = 'http://checkip.amazonaws.com/';
-const log = require('../util/log.js');
+const log = require('/opt/log');
 let response;
 
 
